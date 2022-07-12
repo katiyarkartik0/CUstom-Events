@@ -1,0 +1,6 @@
+.orderSummary{
+    border: solid black;
+    height:20vh;
+    width:30vw;
+    overflow: auto;
+}

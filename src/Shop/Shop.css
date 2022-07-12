@@ -1,0 +1,22 @@
+.commodity{
+    height:20vh;
+    width:30vw;
+    border: solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.shop{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cartArea{
+    border: solid black;
+    height:20vh;
+    width:30vw;
+    overflow: auto;
+}

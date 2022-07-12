@@ -1,0 +1,9 @@
+.unit{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.removeButton{
+    background-color: red;
+}
